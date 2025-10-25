@@ -33,8 +33,6 @@ The Titanic dataset is a classic machine learning dataset containing information
 Classification algorithms were used to predict survival:
 
 * Logistic Regression ✅
-* Random Forest Classifier
-* Support Vector Machine (SVM)
 
 The model was evaluated using metrics like:
 
